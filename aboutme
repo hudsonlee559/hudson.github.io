@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Hudson Dennard</title>
+	<link rel="stylesheet" href="style.css">
+	<script type="text/javascript">
+		
+		
+			
+	</script>	
+</head>
+
+<body>
+        
+
+	<header id="header"><p>Meet Hudson Dennard</p></header>
+
+	<div id="container">
+           
+
+		
+			
+			
+				<h1>Heading</h1>
+                <p>Im a real cool dude</p>
+              
+			
+				
+
+		
+			<ul>
+				<li><a href="https://www.collin.edu/">Collin </a></li>
+				<li><a href="https://www.collin.edu/academics/index.html">Academics</a></li>
+				<li><a href="https://www.collin.edu/gettingstarted/index.html">Getting Started</a></li>
+				<li><a href="https://www.collin.edu/studentresources/index.html">Collin Index</a></li>
+				<li><a href="https://www.collin.edu/aboutus/index.html">About</a></li>
+			</ul>
+            <h3>i enjoy all the days in the world</h3>
+
+           
+			
+
+		</nav>
+
+		<div id="right" class="column">
+			<h3>Right heading</h3>
+			<p>come shake my hand i am a nice guy</p>
+        </div>
+        
+
+	</div>
+
+	<div id="footer-wrapper">
+		<footer id="footer"><p>watch some spongebob with me.</p></footer>
+	</div>
+
+</body>
+
+</html>
